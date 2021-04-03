@@ -13,4 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![](https://vistr.dev/patreon?campaign_id=)](https://www.patreon.com/tomaszcekalo)
 -->
+[![](https://vistr.dev/badge?repo=tomaszcekalo.tomaszcekalo&corners=square)](https://github.com/tomaszcekalo/vistr.dev)
+[![](https://img.shields.io/badge/-@tomaszcekalo-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/tomaszcekalo)
+[![](https://img.shields.io/badge/-@tomaszcekalo-%23181717?style=flat-square&logo=github)](https://github.com/tomaszcekalo)
+[![](https://img.shields.io/badge/-tomaszcekalo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomaszcekalo/)](https://www.linkedin.com/in/tomaszcekalo/)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=chapsas.com&url=http%3A%2F%tomaszcekalo.pl)](http://tomaszcekalo.pl)
+
+
+
+![elfocrash's github stats](https://github-readme-stats.vercel.app/api?username=tomaszcekalo&show_icons=true&theme=dracula)
