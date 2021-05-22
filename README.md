@@ -20,6 +20,13 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-@tomaszcekalo-%23181717?style=flat-square&logo=github)](https://github.com/tomaszcekalo)
 [![](https://img.shields.io/badge/-tomaszcekalo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomaszcekalo/)](https://www.linkedin.com/in/tomaszcekalo/)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=chapsas.com&url=http%3A%2F%tomaszcekalo.pl)](http://tomaszcekalo.pl)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/tomekcekalo)](https://www.facebook.com/tomekcekalo)
+<a href="https://www.instagram.com/tomaszcekalo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+
+
+
+[![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/tomaszcekalo)](https://dev.to/tomaszcekalo)
+
 
 
 
