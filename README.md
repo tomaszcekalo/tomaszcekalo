@@ -28,6 +28,11 @@ Here are some ideas to get you started:
 [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/tomaszcekalo)](https://dev.to/tomaszcekalo)
 
 
-
-
-![elfocrash's github stats](https://github-readme-stats.vercel.app/api?username=tomaszcekalo&show_icons=true&theme=dracula)
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tomaszcekalo&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tomaszcekalo&theme=tokyonight" />
+</p>
+<!--
+![tomaszcekalo's github stats](https://github-readme-stats.vercel.app/api?username=tomaszcekalo&show_icons=true&theme=dracula)
+![tomaszcekalo's github stats](https://github-readme-streak-stats.herokuapp.com/?user=tomaszcekalo&theme=dracula)
+-->
