@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img width="51%" src="https://github-readme-stats.vercel.app/api?username=tomaszcekalo&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tomaszcekalo&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tomaszcekalo&show_icons=true&theme=tokyonight" />
+  <img width="51%" src="https://github-readme-streak-stats.herokuapp.com/?user=tomaszcekalo&theme=tokyonight" />
 </p>
 <!--
 ![tomaszcekalo's github stats](https://github-readme-stats.vercel.app/api?username=tomaszcekalo&show_icons=true&theme=dracula)
