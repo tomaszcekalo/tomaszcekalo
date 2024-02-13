@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/tomekcekalo)](https://www.facebook.com/tomekcekalo)
 <a href="https://www.instagram.com/tomaszcekalo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
-
-
 [![DEV Badge](https://img.shields.io/badge/-DEV.to-000?style=flat-square&logo=dev.to&logoColor=white&link=https://dev.to/tomaszcekalo)](https://dev.to/tomaszcekalo)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomaszcekalo&theme=dark&hide=jupyter%20notebook&layout=compact)](https://github.com/tomaszcekalo)
 
 
 <p align="center">
